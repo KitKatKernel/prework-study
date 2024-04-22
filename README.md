@@ -28,9 +28,6 @@ This project doesn't require installation. To see it:
 
 To use the guide, open your web browser's developer tools, I used Chrome. You can do this by pressing right clicking and pressing "Inspect" or also by using a keyboard shortcut `Control + Shift + I` on Windows. You can then look in the console to see notes on HTML, CSS, Git, and JavaScript.
 
-```markdown
-![Description](assets/images/Study guide.png)
-
 ## Credits
 
 Thanks to my bootcamp guide for providing helpful information on web development concepts. I also used the GitHub Markdown tutorial to learn how to format this README.
